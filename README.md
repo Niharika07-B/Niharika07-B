@@ -1,4 +1,10 @@
-![Working Work From Home GIF by Carolynn](https://github.com/user-attachments/assets/202930c7-e13c-4497-8a1a-cc277b5c88b1)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/202930c7-e13c-4497-8a1a-cc277b5c88b1" 
+       alt="Working Work From Home GIF by Carolynn" 
+       width="400" 
+       height="250" 
+       style="border-radius: 0;">
+</div>
 
 
 # 💫 About Me:
