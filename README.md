@@ -8,9 +8,9 @@
 <div align="center">
 <br>
 
-![GitHub stars](https://img.shields.io/github/stars/Niharika07-B?style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Niharika07-B?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=Niharika07-B&style=for-the-badge&color=blue)
+![Stars](https://img.shields.io/badge/⭐%20Stars-40-brightgreen?style=flat-square)
+![Followers](https://img.shields.io/badge/👥%20Followers-16-blue?style=flat-square)
+![Profile Views](https://img.shields.io/badge/👁️%20Profile%20Views-2802-007acc?style=flat-square)
 
 </div>
 
