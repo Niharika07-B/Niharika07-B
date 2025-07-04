@@ -8,9 +8,19 @@
 <div align="center">
 <br>
 
-![Stars](https://img.shields.io/badge/⭐%20Stars-40-brightgreen?style=flat-square)
-![Followers](https://img.shields.io/badge/👥%20Followers-16-blue?style=flat-square)
-![Profile Views](https://img.shields.io/badge/👁️%20Profile%20Views-2802-007acc?style=flat-square)
+<p align="center">
+  <a href="https://github.com/Niharika07-B?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Niharika07-B?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  
+  <a href="https://github.com/Niharika07-B?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Niharika07-B?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Niharika07-B">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Niharika07-B&style=for-the-badge&color=0e75b6"/>
+  </a>
+</p>
 
 </div>
 
