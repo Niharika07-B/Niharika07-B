@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hi I'm Niharika 👋<br>Cloud Enthusiast and Frontend Developer ☁️💻</h2>
+<h2>Hi I'm Niharika 👋<br>A Cloud Enthusiast and Frontend Developer ☁️💻</h2>
 
 <img src="https://github.com/user-attachments/assets/202930c7-e13c-4497-8a1a-cc277b5c88b1" 
      alt="Working Work From Home GIF by Carolynn" 
@@ -139,15 +139,11 @@
 
 ---
 # 📊 GitHub Stats:
-
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=Niharika07-B&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Niharika07-B&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika07-B&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
+  
 ---
 
 ### 🔝 Top Contributed Repo
@@ -172,3 +168,16 @@
 
 ___
 
+
+## ☕ Support My Journey – One Repo, One Star at a Time!
+
+If my projects spark your interest or help you learn something new, consider dropping a ⭐ on the repo — it truly fuels my motivation!
+
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/niharikab" target="_blank">
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</p>
+
+> 💬 Your stars are my caffeine. Your support keeps me coding — and caffeinated! 💻⚡
