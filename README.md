@@ -153,6 +153,13 @@
   
 ---
 
+## 🐍 Watch My Contribution Snake
+
+![snake gif](https://github.com/Niharika07-B/Niharika07-B/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
 ### 🔝 Top Contributed Repo
 <div align="center">
 
