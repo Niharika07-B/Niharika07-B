@@ -71,6 +71,18 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niharika07-B&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Niharika07-B&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Niharika07-B&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Niharika07-B&theme=radical" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Niharika07-B&theme=radical&utcOffset=5.5" />
+</div>
+
+---
+
 # 💻 Tech Stack:
 
 ## 🔧 Programming Languages
@@ -151,6 +163,8 @@
 </div>
 
   
+
+
 ---
 
 
@@ -170,11 +184,14 @@
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
+<div align="center">
+     
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
 
-___
+---
 
 
 ## ☕ Support My Journey – One Repo, One Star at a Time!
