@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/12UHyJK7tgZrcy7jL9pmP9GeSVe1aO7dh/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/📄%20Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Niharika Bandaru Resume" />
+    <img src="https://img.shields.io/badge/📄 Download%20Resume 💁🏻‍♀️-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Niharika Bandaru Resume" />
   </a>
 </p>
 
