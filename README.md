@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Hi I'm Niharika 👋<br>A Cloud Enthusiast and Frontend Developer ☁️💻</h2>
+<h2>Hi, I'm Niharika 👋<br></h2>
 
 <img src="https://github.com/user-attachments/assets/202930c7-e13c-4497-8a1a-cc277b5c88b1" 
      alt="Working Work From Home GIF by Carolynn" 
