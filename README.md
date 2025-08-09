@@ -14,19 +14,19 @@
 
 <p align="center">
   <a href="https://github.com/Niharika07-B?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Niharika07-B?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Niharika07-B?style=for-the-badge&color=ff69b4"/> <!-- Pink -->
   </a>
   
   <a href="https://github.com/Niharika07-B?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Niharika07-B?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Niharika07-B?style=for-the-badge&color=00c2ff"/> <!-- Sky Blue -->
   </a>
   
   <a href="https://github.com/Niharika07-B">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Niharika07-B&style=for-the-badge&color=0e75b6"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Niharika07-B&style=for-the-badge&color=32cd32"/> <!-- Lime Green -->
   </a>
 </p>
-
 </div>
+
 
 <table>
 <tr>
