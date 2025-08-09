@@ -55,7 +55,7 @@
 
 ---
 
-# <strong>Tech Journey & Aspirations</strong>  
+# <strong>👩‍💻Tech Journey & Aspirations</strong>  
 
 
 - 🎓 I am a **Pre-final Year Engineering Student** at Mohan Babu University.  
@@ -77,8 +77,9 @@
   </a>
 </p>
 
+---
 
-## 🌐 Socials:
+# 🌐 Socials:
 <div align="center">
 
 <div align="center">
@@ -97,7 +98,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niharika07-B&theme=radical" />
@@ -181,7 +182,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niharika07-B&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
@@ -197,7 +198,7 @@
 ---
 
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 <div align="center">
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Niharika07-B&limit=5&theme=radical&combine_all_yearly_contributions=true" />
@@ -207,12 +208,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niharika07-B&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🏆 GitHub Trophies
+
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Niharika07-B&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Niharika07-B trophies" />
+  </a>
+</p>
 
 ---
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 <div align="center">
      
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -220,9 +228,16 @@
 </div>
 
 ---
+# 📂 My Repositories
 
 
-## ☕ Support My Journey – One Repo, One Star at a Time!
+<p align="center">
+  <a href="https://github.com/Niharika07-B?tab=repositories">
+    <img src="https://img.shields.io/badge/🔍%20Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub Repositories" />
+  </a>
+</p>
+
+# ☕ Support My Journey – One Repo, One Star at a Time!
 
 If my projects spark your interest or help you learn something new, consider dropping a ⭐ on the repo — it truly fuels my motivation!
 
