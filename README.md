@@ -191,6 +191,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+# 🏆 LeetCode Achievements
+
+<div align="center">
+  <a href="https://leetcode.com/u/Niharika_Bandaru/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Day Streak Badge" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/Niharika_Bandaru/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode 100 Day Streak Badge" height="100" width="100" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 # 📊 GitHub Stats
 
 <div align="center">
