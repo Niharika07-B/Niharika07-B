@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1 align="center">Hello , I'm Niharika B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -32,6 +33,8 @@
 <tr>
 <td>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 💫 About Me:
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
@@ -53,7 +56,8 @@
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # <strong>👩‍💻Tech Journey & Aspirations</strong>  
 
@@ -77,7 +81,8 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # 🌐 Socials:
 <div align="center">
@@ -96,7 +101,8 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # 📈 GitHub Activity Graph
 
@@ -111,7 +117,9 @@
 
 [![⚡ My Recent GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Niharika07-B&bg_color=050505&color=ff0000&line=ff0000&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 # 💻 Tech Stack
 
 ## 🔧 Programming Languages
@@ -180,7 +188,8 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # 📊 GitHub Stats
 
@@ -195,7 +204,8 @@
  <b>🛠 Heads Up:</b> The “Most Used Languages” chart shows the languages used in my public repositories — it’s about code share, not skill mastery.
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 # 🔝 Top Contributed Repo
@@ -206,7 +216,8 @@
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # 🏆 GitHub Trophies
 
@@ -218,7 +229,8 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 # ✍️ Random Dev Quote
 <div align="center">
@@ -227,7 +239,8 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # 📂 My Repositories
 
 
@@ -236,6 +249,8 @@
     <img src="https://img.shields.io/badge/🔍%20Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub Repositories" />
   </a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # ☕ Support My Journey – One Repo, One Star at a Time!
 
