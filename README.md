@@ -4,7 +4,7 @@
 <h1 align="center">Hello , I'm Niharika B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img src="https://github.com/user-attachments/assets/202930c7-e13c-4497-8a1a-cc277b5c88b1" 
-     alt="Working Work From Home GIF by Carolynn" 
+     alt="Working Work From Home GIF by Carolynn"  
      width="400" 
      height="250" 
      style="border-radius: 0;">
