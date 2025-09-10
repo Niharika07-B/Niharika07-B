@@ -37,7 +37,7 @@
 # 💫 About Me:
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am exploring Web Development, Artificial Intelligence, Machine Learning, and the core foundations of Software Engineering..
+  <strong>I am exploring Web Development, Artificial Intelligence, Machine Learning, and the core foundations of Software Engineering.
   I enjoy building new things, learning every day, and working with others to create great projects.<br>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>➜ I aim to create useful and creative technology solutions.</li>
@@ -69,7 +69,7 @@
 - 🔍 Open to **Internships** and **Job Opportunities** in Software Development.  
 - 🤖 Passionate about exploring and mastering emerging technologies.  
 - 👯 Looking to collaborate on: Open-source projects and hackathons.  
-- 🤔 Seeking guidance in mastering **DevOps workflows**.  
+- 🤔 Seeking guidance in mastering **DevOps workflows, Web Development, AI/ML, and the complete skill set required for a successful tech career in Software Engineering.** 
 - 💬 Ask me about: Collaboration and Tech Support.  
 - 📫 Reach me at: **niharika.bandaru5002@gmail.com**  
 - ⚡ Fun fact: When I’m not coding, I’m reading books or listening to podcasts to keep my curiosity alive. 📖🎙️  
