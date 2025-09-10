@@ -37,7 +37,7 @@
 # 💫 About Me:
 
 <p style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
-  <strong>I am exploring Web Development and Software Engineering 💻.
+  <strong>I am exploring Web Development, Artificial Intelligence, Machine Learning, and the core foundations of Software Engineering..
   I enjoy building new things, learning every day, and working with others to create great projects.<br>
   <ul style="list-style-type: none; padding-left: 0;">
     <li>➜ I aim to create useful and creative technology solutions.</li>
