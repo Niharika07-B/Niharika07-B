@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Niharika07-B?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Niharika07-B?style=for-the-badge&color=ff69b4"/> <!-- Pink -->
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Niharika07-B?style=for-the-badge&color=ff69b4"/> <!-- pink -->
   </a>
   
   <a href="https://github.com/Niharika07-B?tab=followers">
