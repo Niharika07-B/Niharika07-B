@@ -16,7 +16,7 @@
   <a href="https://github.com/Niharika07-B?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Niharika07-B?style=for-the-badge&color=ff69b4"/> <!-- pink -->
   </a>
-  
+   
   <a href="https://github.com/Niharika07-B?tab=followers">
     <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Niharika07-B?style=for-the-badge&color=00c2ff"/> <!-- Sky Blue -->
   </a>
