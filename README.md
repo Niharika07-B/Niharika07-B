@@ -44,7 +44,7 @@
     <li>➜ I use my skills to make projects better, help them grow, and keep them secure.</li>
     <li>➜ I believe in honesty, learning all the time, and working well in a team.</li>
   </ul></strong>
-</p>
+</p> 
 
 <p align="center">
   <strong style="color: white; font-family: 'Courier New', Courier, monospace; font-size: 20px;">
