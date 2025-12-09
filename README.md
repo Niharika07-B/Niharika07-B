@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/17_n.i.h.a.r.i.k.a_07)&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/___.nihaaaaaa.___/?igsh=MTh2MWV3dDg1NmNicw%3D%3D#)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bandaru-niharika/)&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@niharika.bandaru5002)&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NihaNiharika777)&nbsp;&nbsp;
