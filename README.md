@@ -217,8 +217,6 @@
  <b>🛠 Heads Up:</b> The “Most Used Languages” chart shows the languages used in my public repositories — it’s about code share, not skill mastery.
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 # 🔝 Top Contributed Repo
