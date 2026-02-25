@@ -6,7 +6,7 @@
      alt="Working Work From Home GIF by Carolynn"      
      width="400"         
      height="250"        
-     style="border-radius: 0;">       
+     style="border-radius: 0;">        
 </div>      
  
 <div align="center">   
