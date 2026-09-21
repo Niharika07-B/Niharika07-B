@@ -65,7 +65,7 @@
 - 🚀 Actively participated in multiple online hackathons, building software-based solutions and constantly improving my skills.  
 - 💻 Currently learning and gaining experience as a Cloud Practitioner and Competitive Programmer, while improving my skills in Advanced Web Development, Java, Frontend technologies, and Cloud platforms. 
 - 🎓 **Co-ordinator** for AWS Cloud Clubs at Mohan Babu University.  
-- 🌱 Always learning new technologies and methods to stay up to date in the tech world.  
+- 🌱 Always learning new technologies and methods to stay up to date in the tech world.    
 - 🔍 Open to **Internships** and **Job Opportunities** in Software Development.  
 - 🤖 Passionate about exploring and mastering emerging technologies.  
 - 👯 Looking to collaborate on: Open-source projects and hackathons.  
